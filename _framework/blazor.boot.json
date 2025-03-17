@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "Elders.Cronus.Dashboard",
   "resources": {
-    "hash": "sha256-yAtk6YqJoPBxTrYKzgUz9ZDxeO7Y9kOhKekcnHmiuM4=",
+    "hash": "sha256-BbnKjogtIl8zvt65vgl3zlaey3VvD6ctxIxrQxPFs60=",
     "fingerprinting": {
       "BlazorComponentUtilities.jrk97nw8r4.wasm": "BlazorComponentUtilities.wasm",
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "BlazorPro.Spinkit.xgohbmf257.wasm": "BlazorPro.Spinkit.wasm",
-      "Elders.Cronus.Dashboard.g2xfpc3ox2.wasm": "Elders.Cronus.Dashboard.wasm",
+      "Elders.Cronus.Dashboard.2c5isbp7xj.wasm": "Elders.Cronus.Dashboard.wasm",
       "Microsoft.AspNetCore.Components.Forms.2xyes3k065.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.aeg0ykj6ei.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.9owstyrvw7.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -103,7 +103,7 @@
       "BlazorComponentUtilities.jrk97nw8r4.wasm": "sha256-oQvSWR3JOlm+ohv4ovIcQkgLnBzz+q8hRIwWOFZCd9I=",
       "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "BlazorPro.Spinkit.xgohbmf257.wasm": "sha256-IQlANxXKe2MbUR2gXAqzX+z6JMbE7zAfl7+HV2shzGc=",
-      "Elders.Cronus.Dashboard.g2xfpc3ox2.wasm": "sha256-KO4n14cSU45a0hH0Va2FNx3WINYPhES4n8NtGr8cyeY=",
+      "Elders.Cronus.Dashboard.2c5isbp7xj.wasm": "sha256-fhyXYvLehDvY2ApBc8SNeOYo9oQme2JTbrj2EmwScD8=",
       "Microsoft.AspNetCore.Components.Forms.2xyes3k065.wasm": "sha256-RnC/S/N1+AxW/0kaWaSmQoxtNCnzJ5NGlSzA5dTU7oE=",
       "Microsoft.AspNetCore.Components.aeg0ykj6ei.wasm": "sha256-AjVGc8CLfisdOtOgYU8m9iqE/9o4SpcALgpyto+O15s=",
       "Microsoft.AspNetCore.Components.Web.9owstyrvw7.wasm": "sha256-aQniHm5f4WdFFOwydd0xyK0lf3UXpsSaHyG3DJJ2cE8=",
